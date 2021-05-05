@@ -1,7 +1,5 @@
  👋 Hi, I’m ghazal-aroosa
-
-    🔭 Masters of Computer Science
-       from "Punjab University College of Information And Technology Lahore."
+  🔭 Masters of Computer Science
 - 💞️  Fun fact: Full Stack Developer📊
 - 👀 I’m interested in Web and Mobile Application Developer by Profession and hobby.🚀 
 - 🌱 Ask me about,Reactjs JavaScript,TypeScript,AWS and my projects on ghazal.aroosa@gmail.com
