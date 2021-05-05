@@ -1,4 +1,5 @@
-- 👋 Hi, I’m ghazal-aroosa
+ 👋 Hi, I’m ghazal-aroosa
+
   🔭 Masters of Computer Science
        from "Punjab University College of Information And Technology Lahore."
 - 💞️  Fun fact: Full Stack Developer📊
