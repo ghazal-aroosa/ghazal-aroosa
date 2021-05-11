@@ -1,10 +1,10 @@
  👋 Hi, I’m ghazal-aroosa
   🔭 Masters of Computer Science
-- 💞️  Fun fact: Full Stack Developer📊
+- 💞️ Full Stack Web Developer📊
 - 👀 I’m interested in Web and Mobile Application Developer by Profession and hobby.🚀 
 - 🌱 Ask me about,Reactjs JavaScript,TypeScript,AWS and my projects on ghazal.aroosa@gmail.com
 - 📫 How to reach me
-     Call me at: 0092-3440687095
+     Contact no: 0092-3440687095
      Email: ghazal.aroosa@gmail.com
 
 
